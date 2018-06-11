@@ -1,0 +1,14 @@
+#search_box{
+    width:80%;
+    height:35px;
+    margin:0px 10% 0px 10%;
+    border-radius: 2px;
+}
+#search_button{
+    height:40px;
+    border-radius: 3px;
+    margin:0px 10% 0px 10%;
+}
+/* table{
+    margin:0px 10% 0px 10%;
+} */
